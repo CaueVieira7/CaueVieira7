@@ -18,5 +18,3 @@
 ![Discord](https://img.shields.io/badge/Discord-caueninja2807-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=CaueVieira7&color=5A19A5&style=flat)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaueVieira7&show_icons=true&theme=radical)

@@ -11,3 +11,12 @@
 - 📝 Se eu não estiver jogando eu costumo dar uma pesquisada sobre outras áreas do TI ou sobre computação no geral
 
 ![Minhas Skills](https://skillicons.dev/icons?i=html,css,js,git,github)
+## 📫 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-CaueVieira7-181717?style=for-the-badge&logo=github)](https://github.com/CaueVieira7)
+[![Email](https://img.shields.io/badge/Email-caue.vieira.silvaa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caue.vieira.silvaa@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-caueninja2807-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=CaueVieira7&color=5A19A5&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaueVieira7&show_icons=true&theme=radical)

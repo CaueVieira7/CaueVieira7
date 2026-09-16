@@ -7,4 +7,5 @@
 - 🎓 18 anos, estudante autodidata de Desenvolvimento Web
 - 💻 Aprendendo HTML, CSS, JavaScript e Git/GitHub
 - 🎯 Objetivo: me tornar profissional de TI, com ambição de futuramente ser CIO
-- 🎮 Nas horas vagas: Deadlock, Terraria, Hollow Knight, Minecraft, Brawlhalla
+- 🎮 Nas horas vagas costumo jogar alguns jogos pra me divertir: Deadlock, Terraria, Hollow Knight, Minecraft, Brawlhalla
+- 📝 Se eu não estiver jogando eu costumo dar uma pesquisada sobre outras áreas do TI ou sobre computação no geral
